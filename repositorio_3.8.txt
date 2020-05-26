@@ -1,1 +1,2 @@
 Esto es un repositorio Git.
+Lo editaré y fusionaré los cambios con master.
